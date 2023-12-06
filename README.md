@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I'm currently studying in Netaji Subhas University of Technology
+<br>
 🌱 I'm currently learning Python and C++.
+<br>
 📫 You can reach me on linkdin@ https://www.linkedin.com/in/shyam-kumar-b7061b288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BahEcR0GQx%2ButXOmVdrEwQ%3D%3D
+<br>
 ⚡Hobbies: Watching Anime, reading mangas & novels , chess, volleyall.
