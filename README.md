@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm Shyam Kumar Prajapati👋
 
 <!--
 **Shyam-Prajapati/Shyam-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I'm currently studying in Netaji Subhas University of Technology
+🌱 I'm currently learning Python and C++.
+📫 You can reach me on linkdin@ https://www.linkedin.com/in/shyam-kumar-b7061b288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BahEcR0GQx%2ButXOmVdrEwQ%3D%3D
+⚡Hobbies: Watching Anime, reading mangas & novels , chess, volleyall.
